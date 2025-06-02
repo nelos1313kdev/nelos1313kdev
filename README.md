@@ -13,7 +13,7 @@ I'm a software engineer specializing in full-stack web development and a compute
   ### 🛠️ My skills
   <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,typescript,react,vue,nuxt,tailwindcss,express,nodejs,jest,sequelize,mongodb,postgres,netlify,vercel,heroku,tensorflow,postman,gitlab,github,docker,aws,digitalocean&perline=13" />
 </div>
-
+# This is mt repository
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 ![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB) 
