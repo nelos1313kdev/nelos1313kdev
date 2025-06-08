@@ -2,18 +2,18 @@
 
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-### 👨🏻‍💻 About me
-I'm a software engineer specializing in full-stack web development and a computer science student at Technological University of the Philippines. I thrive on tackling intricate challenges, constantly expanding my skill set, and delivering top-notch code that adheres to the highest standards and best practices in the industry.
+### 👨🏻‍💻 私について
+私はフルスタックWeb開発を専門とするソフトウェアエンジニアです。複雑な問題を解決し、常に能力を拡張し、業界をリードする標準とベストプラクティスに準拠した最高のコードを提供することに情熱を注いでいます。
 
 
 
 <br>
 
 <div>
-  ### 🛠️ My skills
+  ### 🛠️ 私のスキル
   <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,typescript,react,vue,nuxt,tailwindcss,express,nodejs,jest,sequelize,mongodb,postgres,netlify,vercel,heroku,tensorflow,postman,gitlab,github,docker,aws,digitalocean&perline=13" />
 </div>
-# This is mt repository
+# これは私のリポジトリです
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
 ![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB) 
