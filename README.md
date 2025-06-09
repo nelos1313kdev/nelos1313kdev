@@ -5,8 +5,12 @@
 ### 👨🏻‍💻 私について
 私はフルスタックWeb開発を専門とするソフトウェアエンジニアです。複雑な問題を解決し、常に能力を拡張し、業界をリードする標準とベストプラクティスに準拠した最高のコードを提供することに情熱を注いでいます。
 
-
-
+●○●○●対応可能な分野●○●○●
+・ フロントエンド：HTML / CSS / JavaScript / TypeScript / Vue.js / React.js / Next.js/ Nuxt.js
+・ バックエンド： PHP（Laravel / WordPress）/ Python（Django）/ ChatGPT / Node.js / Express
+・ データベース：MySQL / PostgreSQL / MongoDB
+・ クラウド・インフラ：AWS / GCP / Firebase
+・ ECサイト構築（Shopify / WooCommerce / BigCommerce / Magento）
 <br>
 
 <div>
