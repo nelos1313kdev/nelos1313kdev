@@ -3,14 +3,14 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 ### 👨🏻‍💻 私について
-私はフルスタックWeb開発を専門とするソフトウェアエンジニアです。複雑な問題を解決し、常に能力を拡張し、業界をリードする標準とベストプラクティスに準拠した最高のコードを提供することに情熱を注いでいます。
+私はフルスタックWeb開発を専門とするソフトウェアエンジニアです。複雑な問題を解決し、常に能力を拡張し、業界をリードする標準とベストプラクティスに準拠した最高のコードを提供することに情熱を注いでいます。<br>
 
-●○●○●対応可能な分野●○●○●
-・ フロントエンド：HTML / CSS / JavaScript / TypeScript / Vue.js / React.js / Next.js/ Nuxt.js
-・ バックエンド： PHP（Laravel / WordPress）/ Python（Django）/ ChatGPT / Node.js / Express
-・ データベース：MySQL / PostgreSQL / MongoDB
-・ クラウド・インフラ：AWS / GCP / Firebase
-・ ECサイト構築（Shopify / WooCommerce / BigCommerce / Magento）
+●○●○●対応可能な分野●○●○●<br>
+・ フロントエンド：HTML / CSS / JavaScript / TypeScript / Vue.js / React.js / Next.js/ Nuxt.js<br>
+・ バックエンド： PHP（Laravel / WordPress）/ Python（Django）/ ChatGPT / Node.js / Express<br>
+・ データベース：MySQL / PostgreSQL / MongoDB<br>
+・ クラウド・インフラ：AWS / GCP / Firebase<br>
+・ ECサイト構築（Shopify / WooCommerce / BigCommerce / Magento）<br>
 <br>
 
 <div>
